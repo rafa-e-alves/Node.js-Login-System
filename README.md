@@ -5,7 +5,7 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 ## Tabela de Conteúdo
 - [Tecnologias](#tecnologias)
 - [Funcionalidades](#funcionalidades)
-- [Como Rodar o Projeto](#como-rodar-o-projeto)
+- [Como Executar](#como-executar)
 - [Demonstração](#demonstração)
 - [Contribuições](#contribuição)
 - [Licença](#licença)
@@ -30,7 +30,7 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 - Feedback visual para erros de validação (ex.: campos obrigatórios).
 - Armazenamento seguro de senhas (utilizando hashing).
 
-## Como Rodar o Projeto
+## Como Executar
 
 ### 1. Clone o Repositório
 
