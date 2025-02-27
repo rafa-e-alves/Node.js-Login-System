@@ -35,7 +35,7 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 ### 1. Clone o Repositório
 
 ```sh
-git clone https://github.com/rafa-e-alves/Nodejs-Login-System.git
+[git clone https://github.com/rafa-e-alves/Nodejs-Login-System.git](https://github.com/rafa-e-alves/Node.js-Login-System.git)
 ```
 
 ### 2. Entre no Diretório do Projeto
