@@ -7,7 +7,7 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 - [Funcionalidades](#funcionalidades)
 - [Como Rodar o Projeto](#como-rodar-o-projeto)
 - [Demonstração](#demonstração)
-- [Contribuições](#contribuições)
+- [Contribuições](#contribuição)
 - [Licença](#licença)
 
 ## Tecnologias
@@ -18,6 +18,7 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 - **HTML/CSS**: Frontend simples para exibir a interface de login e registro.
 
 ### Dependências Principais
+
 - **bcrypt**: Para hash de senhas e segurança.
 - **dotenv**: Para gerenciamento de variáveis de ambiente.
 - **express**: Framework Node.js para criação do servidor.
@@ -100,9 +101,9 @@ Acesse o sistema de login em http://localhost:3000/login.
 ### Tela de Login
 ![Login](./screenshots/login.png)
 
-## Contribuições
+## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou quiser adicionar novas funcionalidades, fique à vontade para abrir um *issue* ou enviar um *pull request*.
+Sinta-se à vontade para contribuir com melhorias no código ou na documentação. Para isso, abra um *issue* ou envie um *pull request* com as suas alterações.
 
 ## Licença
 
