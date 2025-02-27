@@ -7,7 +7,7 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 - [Funcionalidades](#funcionalidades)
 - [Como Executar](#como-executar)
 - [Demonstração](#demonstração)
-- [Contribuições](#contribuição)
+- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Tecnologias
