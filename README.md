@@ -18,7 +18,6 @@ Sistema de login com autenticação de usuários utilizando **Node.js**, **MySQL
 - **HTML/CSS**: Frontend simples para exibir a interface de login e registro.
 
 ### Dependências Principais
-
 - **bcrypt**: Para hash de senhas e segurança.
 - **dotenv**: Para gerenciamento de variáveis de ambiente.
 - **express**: Framework Node.js para criação do servidor.
